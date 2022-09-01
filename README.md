@@ -17,6 +17,8 @@ This package contain several components:
 1. This project is easy to understand and modify as the rendered scence can be rendered in the GUI. 
 2. This project is not suitable for remote server as it require the GUI of blender.
 
+![comparison](https://user-images.githubusercontent.com/23183444/187807589-25ecbe3b-06be-4989-9344-a8214e8b6a4b.png)
+
 
 If you use this work, please cite our paper. 
 

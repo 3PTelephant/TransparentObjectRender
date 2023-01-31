@@ -21,7 +21,14 @@ This package contain several components:
 
 
 If you use this work, please cite our paper. 
-
-
+```
+@article{jiang2022shall,
+  title={Where Shall I Touch? Vision-Guided Tactile Poking for Transparent Object Grasping},
+  author={Jiang, Jiaqi and Cao, Guanqun and Butterworth, Aaron and Do, Thanh-Toan and Luo, Shan},
+  journal={IEEE/ASME Transactions on Mechatronics},
+  year={2022},
+  publisher={IEEE}
+}
+```
 Part of this code is from BlenderProc project https://github.com/DLR-RM/BlenderProc. 
 
